@@ -220,4 +220,4 @@ git push --delete origin <nome_da_branch>
 
 ---
 
-Para elaborar este estudo, utilizei cursos e também sites. Para auxiliar na formatação, utilizei o ChatGPT apenas para organizar o conteúdo e deixá-lo esteticamente mais bonito.
+Para elaborar este estudo, utilizei cursos e também sites. Para auxiliar na formatação, utilizei o ChatGPT apenas para organizar o conteúdo e deixá-lo esteticamente mais bonito. Obs: abra o index.html
